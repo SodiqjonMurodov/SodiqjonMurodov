@@ -4,7 +4,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783
 Web Developer
 -------------
 
-* 🌍  I'm based in Tashkent, Uzbekistan
+* 🌍  I'm based in Bukhara, Uzbekistan
 * ✉️  You can contact me at [murodovsodiq1800@gmail.com](mailto:murodovsodiq1800@gmail.com)
 
 ### Skills
